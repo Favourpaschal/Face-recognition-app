@@ -1,3 +1,3 @@
 .Tilt {
-	background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+	background: radial-gradient(circle at 100% 50%, #adbe61, #e66a73, #d581ff);
 }

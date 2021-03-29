@@ -3,7 +3,7 @@ body {
   font-family: "Courier New", Courier, monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+  background: radial-gradient(circle at 100% 50%, #adbe61, #e66a73, #d581ff);
  /* overflow-y: hidden;
   overflow-x: hidden; */
   align-items: center;
